@@ -1,0 +1,2 @@
+model,n_factors,n_epochs,learning_rate,regularization,rmse,mae,train_time_seconds
+SVD,20,20,0.005,0.02,1.1134409117305557,0.8412127212611165,467.9289000034332

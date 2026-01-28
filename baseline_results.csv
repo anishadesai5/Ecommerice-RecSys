@@ -1,0 +1,5 @@
+Model,RMSE,MAE,RMSE Improvement
+Global Mean,1.1757,0.9393,baseline
+User Bias,1.2735,0.9124,-8.32%
+Item Bias,1.1782,0.8687,-0.21%
+User + Item Bias,1.2494,0.8618,-6.27%
